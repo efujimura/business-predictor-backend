@@ -1,0 +1,17 @@
+{
+  "feature_cols": [
+    "foot_traffic_proxy_log",
+    "market_competition_log",
+    "pop_growth_rate",
+    "biz_saturation_log",
+    "business_type_target_enc",
+    "spatial_score",
+    "competitor_success_rate"
+  ],
+  "target": "longevity",
+  "best_model": "Random Forest",
+  "best_accuracy": 0.7938,
+  "best_roc_auc": 0.8982,
+  "n_features": 7,
+  "n_samples": 12702
+}

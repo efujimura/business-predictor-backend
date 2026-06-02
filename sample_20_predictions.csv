@@ -1,0 +1,15 @@
+barangay,business_type,success_probability,predicted_outcome,confidence,market_competition,foot_traffic_score,competitor_success_rate,business_type_success_rate,spatial_score,population
+Mi-isi,PRINTING SERVICE,28.6,FAIL,42.8,0,0.08,50.0,45.2,0.208,1119
+Bascaran,BAKERY,47.7,FAIL,4.6,0,4.35,50.0,52.5,0.457,4809
+Budiao,SARI-SARI STORE,7.4,FAIL,85.1,9,0.15,20.0,40.9,0.504,397
+Anislag,PHARMACY,63.5,SUCCESS,27.1,0,8.87,50.0,64.3,0.111,12877
+Matnog,BAKERY,45.2,FAIL,9.7,0,0.6,0.0,52.5,0.511,1877
+Alcala,MEDICAL CLINIC,29.3,FAIL,41.4,0,1.66,50.0,38.9,0.641,3190
+San Ramon,PAWNSHOP,86.7,SUCCESS,73.4,0,0.02,50.0,87.5,0.05,1617
+Bagumbayan,RICE MILL,66.6,SUCCESS,33.2,0,9.94,50.0,87.5,0.876,4007
+Villahermosa,FOOD CART,16.5,FAIL,66.9,0,0.07,50.0,40.0,0.05,2662
+Mayon,CONSTRUCTION SUPPLY,54.4,SUCCESS,8.8,0,0.07,50.0,53.8,0.052,2047
+Kidaco,CATERING,14.8,FAIL,70.4,0,0.07,50.0,35.3,0.853,1563
+Market Site,REAL ESTATE,38.9,FAIL,22.2,0,70.08,0.0,70.6,0.95,3170
+San Vicente Pequeño,PHARMACY,34.5,FAIL,31.0,0,0.0,50.0,64.3,0.087,477
+San Ramon,FOOD CART,14.6,FAIL,70.8,0,0.02,50.0,40.0,0.05,1617
